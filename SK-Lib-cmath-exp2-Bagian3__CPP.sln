@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SK-Lib-cmath-exp2-Bagian3__CPP", "SK-Lib-cmath-exp2-Bagian3__CPP\SK-Lib-cmath-exp2-Bagian3__CPP.vcxproj", "{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Debug|x64.ActiveCfg = Debug|x64
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Debug|x64.Build.0 = Debug|x64
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Debug|x86.Build.0 = Debug|Win32
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Release|x64.ActiveCfg = Release|x64
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Release|x64.Build.0 = Release|x64
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Release|x86.ActiveCfg = Release|Win32
+		{BC8FEFA1-34AE-4EEF-963D-2C9AB5133FA6}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {974A27B0-A8EC-40DE-BC1D-DAB298E179A4}
+	EndGlobalSection
+EndGlobal
